@@ -44,7 +44,7 @@ nav li{
 .action {
     display: flex ;
     justify-content: space-between;
-   margin: 450px 150px;
+   margin: 50px 150px;
 }
 .action-content {
     max-width: 517px 203px;
@@ -57,4 +57,13 @@ nav li{
 .action-profile{
     font-weight: 403px;
     height: 328px;
+}
+main{
+    max-width: 1140px 328px;
+    margin: 150 auto;
+}
+div p{
+    font-size: 30px;
+    font-weight: 800;
+    align-content: center;
 }
